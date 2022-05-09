@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  padding: 10px;
+  color: white;
+  font-family: "Courier New", monospace;
+}
+
+h1 {
+  color: black;
+  background-color: #FFE900;
+}
+
+p {
+  opacity: 0.9;
+}
+
+.preface {
+  font-size: 1.4em;
+}
+
+.underline {
+  text-decoration: underline;
+}
